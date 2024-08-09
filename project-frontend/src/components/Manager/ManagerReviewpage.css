@@ -1,0 +1,25 @@
+.btn-danger{
+    background-color: #f44336;
+}
+
+.btn-Edit{
+    background-color: #008CBA;
+}
+
+.btn-success{
+    background-color: #4CAF50;
+}
+table {
+    width: 70%;
+    margin: 60px;
+  }
+
+table, th, td {
+    border: 1px solid;
+    
+  }
+
+td,th{
+    background-color: #EDE3FF;
+    text-align: center;    
+}

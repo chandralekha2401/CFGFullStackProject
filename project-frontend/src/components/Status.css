@@ -1,0 +1,32 @@
+.status{
+    color: white;
+    text-align: center;
+}
+
+.Space{
+padding: 50px;
+}
+
+.Results{
+    background-color: white;
+    border-radius: 5px;
+    height:100px;
+    width: 35%;
+    margin: 20px auto;
+    padding: 30px;
+    border-radius: 60px;
+    color: black;
+    font-weight: bold;
+}
+
+.inputStatus{
+    align-items: center;
+    width: 30%;
+    box-shadow: inset 0px 0px 25px 0px #666;
+    border-radius: 60px;
+    height: 30px;
+    border: none;
+    outline: none;
+    padding: 14px 0 0 25px;
+   
+}

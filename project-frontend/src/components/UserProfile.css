@@ -1,0 +1,32 @@
+
+.form{
+    background-color: white;
+    border-radius: 5px;
+    height: 900px;
+    width: 35%;
+    margin: 20px auto;
+    padding: 30px;
+    border-radius: 60px;
+    
+}
+
+
+.form__input{
+    align-items: center;
+    display: flex;
+    width: 60%;
+    padding-left: 70px;
+    font-size: 20px;
+    font-style: italic;
+    height: 50px;
+    border-radius: 60px;
+    box-shadow: inset 0px 0px 25px 0px #666;
+    border: none;
+    outline: none;
+   
+    }
+
+
+.footer{
+    text-align: center;
+}

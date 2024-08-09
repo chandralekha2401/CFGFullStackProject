@@ -1,0 +1,86 @@
+.Main-App {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  padding: 90px 0 90px 0;
+}
+
+
+.Sub-App{
+  height: 580px ;
+  width: 35%;
+  display: flex;
+  justify-content: center;
+  padding: auto;
+  border-radius: 60px;
+  background-color: white;
+}
+
+.image{
+  padding-top: 20px;
+  justify-content: center;
+  display: flex;
+
+}
+
+.img{
+  border-radius: 150px;
+  align-items: center;
+  display: flex;
+  height: 115px;
+  width: 115px;
+
+}
+.icon{
+  height: 100px;
+  width: 100px;
+  border-radius: 130px;
+  text-align: center;
+}
+
+
+.name{
+  padding-left: 70px;
+  font-size: 20px;
+  font-style: italic;
+  width: 300px;
+  height: 50px;
+  border-radius: 60px;
+  box-shadow: inset 0px 0px 25px 0px #666;
+  border: none;
+  outline: none;
+}
+
+.user{
+  height: 25px;
+  width: 25px;
+  position: absolute;
+  padding: 14px 0 0 25px;
+}
+
+.otherInput{
+  padding-top: 20px;
+}
+
+button{
+  background-color:blueviolet;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  display: inline-block;
+  border-radius: 5px;
+  margin: 40px;
+ 
+}
+a{
+  color: blue;
+}
+
+.error{
+   color: red;
+   font-size: 30px;
+}
+
+Link{
+  font-size: 40px;
+}  

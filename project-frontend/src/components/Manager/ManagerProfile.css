@@ -1,0 +1,19 @@
+.Managerhome{
+    text-align: center;
+    color: white;
+}
+
+.Managericon{
+  padding: auto;
+  height: 120px;
+  
+}
+.form2{
+  background-color: white;
+  border-radius: 5px;
+  height: 940px;
+  width: 35%;
+  margin: 20px auto;
+  padding: 30px;
+  border-radius: 60px;
+}
